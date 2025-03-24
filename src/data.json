@@ -1,0 +1,97 @@
+{
+    "perros": [
+      {
+        "nombre": "Luna",
+        "raza": "Labrador Retriever",
+        "descripcion": "Labrador amigable y enérgico, ideal para familias y muy leal.",
+        "imagen": "https://placedog.net/400/300"
+      },
+      {
+        "nombre": "Max",
+        "raza": "Pastor Alemán",
+        "descripcion": "Perro inteligente y protector, excelente como guardián y compañero.",
+        "imagen": "https://placedog.net/401/300"
+      },
+      {
+        "nombre": "Rocky",
+        "raza": "Bulldog Francés",
+        "descripcion": "Bulldog pequeño y juguetón, con una personalidad encantadora.",
+        "imagen": "https://placedog.net/402/300"
+      },
+      {
+        "nombre": "Daisy",
+        "raza": "Golden Retriever",
+        "descripcion": "Sociable y cariñosa, perfecta para el hogar y muy obediente.",
+        "imagen": "https://placedog.net/403/300"
+      },
+      {
+        "nombre": "Thor",
+        "raza": "Husky Siberiano",
+        "descripcion": "Husky fuerte y energético, con un pelaje hermoso y ojos impactantes.",
+        "imagen": "https://placedog.net/404/300"
+      },
+      {
+        "nombre": "Bella",
+        "raza": "Poodle",
+        "descripcion": "Perro inteligente y fácil de entrenar, con un pelaje rizado único.",
+        "imagen": "https://placedog.net/405/300"
+      },
+      {
+        "nombre": "Bruno",
+        "raza": "Dóberman",
+        "descripcion": "Fuerte y valiente, con una gran lealtad hacia su familia.",
+        "imagen": "https://placedog.net/406/300"
+      },
+      {
+        "nombre": "Milo",
+        "raza": "Cocker Spaniel",
+        "descripcion": "Dulce y activo, con orejas largas y un carácter juguetón.",
+        "imagen": "https://placedog.net/407/300"
+      },
+      {
+        "nombre": "Rex",
+        "raza": "Rottweiler",
+        "descripcion": "Rottweiler protector y fuerte, ideal como perro guardián.",
+        "imagen": "https://placedog.net/408/300"
+      },
+      {
+        "nombre": "Coco",
+        "raza": "Beagle",
+        "descripcion": "Perro curioso y aventurero, con un olfato muy desarrollado.",
+        "imagen": "https://placedog.net/409/300"
+      }
+    ],
+    "gatos": [
+      {
+        "nombre": "Misha",
+        "raza": "Siamés",
+        "descripcion": "Gato elegante con ojos azules y un carácter juguetón.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlE_XZeENyLwqnk2UppUM77Tj4GsFXK60ufg&s"
+      },
+      {
+        "nombre": "Oliver",
+        "raza": "Maine Coon",
+        "descripcion": "Gato grande y peludo, muy amigable y sociable.",
+        "imagen": "https://static.nationalgeographic.es/files/styles/image_3200/public/nationalgeographic_1468962.jpg?w=1600"
+      },
+      {
+        "nombre": "Luna",
+        "raza": "Bengalí",
+        "descripcion": "Gato con un pelaje exótico y una energía inagotable.",
+        "imagen": "https://images.ctfassets.net/denf86kkcx7r/4IPlg4Qazd4sFRuCUHIJ1T/f6c71da7eec727babcd554d843a528b8/gatocomuneuropeo-97?fm=webp&w=612"
+      },
+      {
+        "nombre": "Simba",
+        "raza": "Persa",
+        "descripcion": "Gato tranquilo y majestuoso, con un pelaje largo y sedoso.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3P_dEqHjnnJQDuukmkbSjI8FUHo_ubU_JA&s"
+      },
+      {
+        "nombre": "Nala",
+        "raza": "British Shorthair",
+        "descripcion": "Gato de cuerpo robusto y carácter apacible, ideal para hogares.",
+        "imagen": "https://fotografias.lasexta.com/clipping/cmsimages02/2019/01/25/DB41B993-B4C4-4E95-8B01-C445B8544E8E/98.jpg?crop=4156,2338,x0,y219&width=1900&height=1069&optimize=high&format=webply"
+      }
+    ]
+  }
+  
